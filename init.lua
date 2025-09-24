@@ -9,5 +9,4 @@ require 'keymaps'
 
 require 'lazy-bootstrap'
 
--- TODO: Add nvim-orgmode
 require 'lazy-plugins'
